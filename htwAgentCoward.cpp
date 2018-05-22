@@ -3,7 +3,7 @@
 //
 // Here's an example agent function.
 
-//new comment to htwAgentCoward
+//adding a new comment here, but also deleting some old text.
 
 #include "htw.h"
 
