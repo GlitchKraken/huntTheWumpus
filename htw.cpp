@@ -138,6 +138,7 @@ void WumpusWorld::applyAction(action a)
          {
             isWumpusDead = true;
             currentSensor.setScream();
+            playerScore += 100;
          }
       }
       break;
@@ -153,6 +154,7 @@ void WumpusWorld::applyAction(action a)
          {
             isWumpusDead = true;
             currentSensor.setScream();
+            playerScore += 100;
          }
       }
       break;
@@ -168,6 +170,7 @@ void WumpusWorld::applyAction(action a)
          {
             isWumpusDead = true;
             currentSensor.setScream();
+            playerScore += 100;
          }
       }
       break;
@@ -183,6 +186,7 @@ void WumpusWorld::applyAction(action a)
          {
             isWumpusDead = true;
             currentSensor.setScream();
+            playerScore += 100;
          }
       }
       break;
